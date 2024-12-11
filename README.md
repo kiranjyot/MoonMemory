@@ -14,5 +14,5 @@ The GW model data is also found at https://dvartany.github.io/data/, http://www.
 Clone the repository and install the necessary packages:
 ```bash
 pip install gwpy
-git clone https://github.com/kiranjyot/CCSNeGWMemory.git
-cd CCSNeGWMemory
+git clone https://github.com/kiranjyot/MoonMemory.git
+cd MoonMemory
